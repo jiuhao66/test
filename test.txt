@@ -3,3 +3,5 @@ xixi haha
 成功了
 666666
 mygit
+git gui
+gitk
